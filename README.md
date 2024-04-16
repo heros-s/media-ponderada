@@ -1,0 +1,1 @@
+Programa em C que lê a nota de três provas de um aluno, calcula e escreve a média final dele, considerando que o peso das provas é 2 para a primeira, 3 para a segunda e 5 para a terceira.
